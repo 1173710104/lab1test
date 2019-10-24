@@ -4,6 +4,7 @@
 
 int main()
 {
+	// written by 1173710104-ëøÌÎ
     float f;
 
     for(;;)
