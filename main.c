@@ -4,7 +4,7 @@
 
 int main()
 {
-	//reset test
+	//reset test 2
     float f;
 
     for(;;)
